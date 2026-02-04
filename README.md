@@ -4,7 +4,7 @@ An image analysis application that allows users to segment objects by color, cal
 
 
 
-##Key Features
+Key Features
 
 * **Image Loading**: Supports `.png`, `.jpg`, and `.bmp` formats.
 * **Interactive Segmentation**: Select an image segment with a single mouse click on any area of the picture.
