@@ -76,7 +76,7 @@ bool MainWindow::eventFilter(QObject *obj, QEvent *event) {
 }
 
 void MainWindow::processSegmentation(QPoint pos) {
-    // Виклик винесеної логіки
+
     SegmentationResult res = ImageProcessor::runFloodFill(currentImage, pos);
     this->lastSegmentPixels = res.allPixels;
 
