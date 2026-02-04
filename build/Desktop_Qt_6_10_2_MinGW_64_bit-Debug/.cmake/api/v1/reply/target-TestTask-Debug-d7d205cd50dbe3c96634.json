@@ -622,7 +622,7 @@
 				0,
 				1,
 				2,
-				7
+				6
 			]
 		}
 	],
@@ -633,11 +633,11 @@
 			"id" : "TestTask_qmlimportscan::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "TestTask_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "TestTask_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "TestTask_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "TestTask::@6890427a1f51a3e7e1df",
@@ -780,7 +780,7 @@
 				0,
 				1,
 				2,
-				7
+				6
 			]
 		},
 		{
@@ -788,8 +788,8 @@
 			"sourceIndexes" : 
 			[
 				3,
-				6,
-				8
+				5,
+				7
 			]
 		},
 		{
@@ -803,15 +803,14 @@
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				5,
-				9
+				8
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				10
+				9
 			]
 		}
 	],
@@ -845,11 +844,6 @@
 			"backtrace" : 4,
 			"path" : "mainwindow.ui",
 			"sourceGroupIndex" : 2
-		},
-		{
-			"backtrace" : 4,
-			"path" : "ImageAnalyzer.pro",
-			"sourceGroupIndex" : 3
 		},
 		{
 			"backtrace" : 4,
